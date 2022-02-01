@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning everyday something new
 - 💞️ I’m looking to collaborate on all the things I am interested in which is mentioned above
 - 📫 You can reach me on 
-Email: sameerstg@outlook.com
-LinkedIn: https://www.linkedin.com/in/sameerstg/
-Insta: https://www.instagram.com/sameerstg/
+      Email: sameerstg@outlook.com
+      LinkedIn: https://www.linkedin.com/in/sameerstg/
+      Insta: https://www.instagram.com/sameerstg/
 
 
