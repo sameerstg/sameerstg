@@ -7,6 +7,6 @@
       Behance: https://www.behance.net/sameerstgahmed
       LinkedIn: https://www.linkedin.com/in/sameerstg/
       Insta: https://www.instagram.com/sameerstg/
-      Youtube: https://www.youtube.com/channel/UCt68mmpafwAmhsENbxr_5Lg
+      
 
 
