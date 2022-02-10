@@ -3,10 +3,8 @@
 - 🌱 I’m currently learning everyday something new
 - 💞️ I’m looking to collaborate on all the things I am interested in which is mentioned above
 - 📫 You can reach me on 
+      Socials: https://linktr.ee/Sameerstg
       Email: sameerstg@outlook.com
-      Behance: https://www.behance.net/sameerstgahmed
-      LinkedIn: https://www.linkedin.com/in/sameerstg/
-      Insta: https://www.instagram.com/sameerstg/
       
 
 
