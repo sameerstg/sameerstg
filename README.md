@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameer Ahmed(Sameerstg)</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Game and App developer, currently making VR games.</h3>
 
 <div align="center">
 
